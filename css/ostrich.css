@@ -1,0 +1,13 @@
+font-face {
+    font-family: 'ostrich';
+    src: url('ostrich-webfont.eot');
+    /* IE9 兼容模式 */
+    src: local('ostrich'), /* 指定使用者電腦裡的字體名稱 */
+    url('ostrich-webfont.eot#iefix') format('embedded-opentype'), /* IE6 - IE8 */
+    url('ostrich-webfont.woff') format('woff'), /* 現代瀏覽器 */
+    url('ostrich-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('ostrich-webfont.svg#ostrich') format('svg');
+    /* iOS */
+    font-weight: 400;
+    font-style: normal;
+}

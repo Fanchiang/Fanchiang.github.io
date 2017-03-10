@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=ostrich');
+* {
+    color: #333;
+}
+
+.header-title {
+    color: red;
+}
+
+h1,
+h2,
+h3,
+h4,
+.header-title {
+    color: red;
+    font-family: 'ostrich', sans-serif;
+}
